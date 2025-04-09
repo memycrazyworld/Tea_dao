@@ -1,5 +1,5 @@
 {
-  "name": "@cryptodjk/djk-tea",
+  "name": "@memycrazyworld/djk-tea",
   "version": "1.0.0",
   "description": "tea project",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cryptoworkdjk/djk-tea.git"
+    "url": "git+https://github.com/memycrazyworld/djk-tea.git"
   },
   "keywords": [
     "tea",
@@ -17,9 +17,9 @@
   "author": "cryptofjk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cryptoworkdjk/djk-tea/issues"
+    "url": "https://github.com/memycrazyworld/djk-tea/issues"
   },
-  "homepage": "https://github.com/cryptoworkdjk/djk-tea#readme",
+  "homepage": "https://github.com/memycrazyworld/djk-tea#readme",
   "dependencies": {
     "djk-tea": "^1.0.0"
   }
